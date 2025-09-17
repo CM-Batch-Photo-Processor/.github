@@ -1,6 +1,5 @@
 # 🛠️ CM Batch Photo Processor — Powerful Batch Editor & Converter for macOS
 
-![CM Batch Photo Processor Logo](https://static.macupdate.com/products/56822/m/cm-batch-jpeg-rotator-logo.png?v=1669296217)
 
 <!-- Download Button — shield/badge style (photo editor teal) -->
 <div align="center" style="margin:14px 0 18px;">
